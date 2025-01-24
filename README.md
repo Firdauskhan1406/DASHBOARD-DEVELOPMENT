@@ -14,6 +14,8 @@
 
 DASHBOARD TOPIC: SALES ANALYSIS DASHBOARD
 
+![Image](https://github.com/user-attachments/assets/7c82d481-c979-47db-8e40-c490beaa0ab4)
+
 
 Objective of the Sales Analysis Dashboard
 
